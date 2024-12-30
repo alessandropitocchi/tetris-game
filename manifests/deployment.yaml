@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: tetris-container
-        image: nasi101/tetris
+        image: nasi101/tetrisv2
         resources:
           limits:
             memory: "128Mi"
